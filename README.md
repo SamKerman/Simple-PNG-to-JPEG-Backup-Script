@@ -7,9 +7,7 @@ This script requires [opencv-python](https://pypi.org/project/opencv-python/).
 
 To Run, simply run the following in a command line in the same directory as the python file.
 ```
-{
-  python convertfiles.py "png/source/directory" "jpeg/backup/directory"
-}
+python convertfiles.py "png/source/directory" "jpeg/backup/directory"
 ```
 
 Replace "png/source/directory" and "jpeg/backup/directory" with the png source directory and the jpeg backup directory, respectively.
